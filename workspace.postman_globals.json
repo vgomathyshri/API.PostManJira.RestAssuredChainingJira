@@ -1,0 +1,27 @@
+{
+	"id": "daf6d8a8-8e1f-4d5e-8573-3525ab1ff9e6",
+	"values": [
+		{
+			"key": "systemid",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "bugid",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "keyid",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2023-01-22T14:20:36.769Z",
+	"_postman_exported_using": "Postman/10.8.4"
+}
